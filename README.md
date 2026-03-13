@@ -1,7 +1,7 @@
 # Student Profile Android App
 
-**Name:** A. Sai Praveen  
-**Pin:** A23126552276  
+**Name:** A.Yaswanth Kumar 
+**Pin:** A23126552191 
 **Class:** 3/4 CSM-D
 
 ## App Screenshot
